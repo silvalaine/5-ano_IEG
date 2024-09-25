@@ -11,6 +11,6 @@ Clique no nome do aluno para acessar o jogo</p>
 <a href="https://silvalaine.github.io/5-ano_IEG/BERNARDO/">BERNARDO</a><br>
 <a href="https://silvalaine.github.io/5-ano_IEG/JOAO_GUILHERME_E_JOAO_FELLIPE/">JOÃO GUILHERME E JOÃO FELLIPE</a><br>
 <a href="https://silvalaine.github.io/5-ano_IEG/KATERYNE_E_ESTEFANY/">KATERYNE E ESTEFANY</a><br>
-<a href="https://silvalaine.github.io/5-ano_IEG/KAUA_E_LEONARDO/">KAUÃ E EONARDO</a><br>
+<a href="https://silvalaine.github.io/5-ano_IEG/KAUA_E_LEONARDO/">KAUÃ E LEONARDO</a><br>
 
 
